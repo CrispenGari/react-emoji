@@ -2,6 +2,10 @@
 
 This is a React Component Library for rendering emoji components.
 
+<p align="center">
+<img src="/fav-ico.png" width="50%" alt="react-emojify" />
+</p>
+
 ### Getting started
 
 To use `react-emojify` you need to install it as follows:
